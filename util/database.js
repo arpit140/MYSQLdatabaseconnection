@@ -19,4 +19,4 @@ const sequelize = new Sequelize('node-complete','root','7488552785aA@',
      host: 'localhost'
     })
 
-module.exports = sequelize
+module.exports = sequelize 
